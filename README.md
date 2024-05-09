@@ -6,7 +6,7 @@ Semantic segmentation dataset : https://www.kaggle.com/datasets/mejbahahammad/se
 
 Semantic segmentation of aerial imagery : https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
-### Step-by-Step Explanation:
+### Step-by-Step Explanation
 
 1. **Import Libraries:**
    - Libraries like `os`, `numpy`, `tensorflow`, and related modules are imported. These are common libraries for data manipulation, numerical operations, and deep learning.
